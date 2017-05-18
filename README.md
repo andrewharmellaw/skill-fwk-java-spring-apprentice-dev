@@ -10,12 +10,12 @@
   * [Persistence (Relational) - MySQL (Apprentice Developer)](https://github.com/andrewharmellaw/skill-persistence-relational-mysql-apprentice-dev)
 
 ## [TOPICS]
-  * Spring Patterns: Dependency Injection and Inversion of Control
+  * Design Patterns in Spring: Dependency Injection and Inversion of Control
   * Spring Container (Beans, Wiring, Aspect-Oriented Spring)
   * Spring Configuration
-  * Testing Spring Apps
-  * Data Access and Tx Management
-  * Web Apps with Spring MVC
+  * Testing Spring Applications
+  * Data Access and Transaction Management
+  * Web Applications with Spring MVC
   * Packaging Apps with Spring Boot (SUPPLEMENTAL)
   * Spring Security (SUPPLEMENTAL)
   * Microserivces with Spring Cloud (SUPPLEMENTAL)
