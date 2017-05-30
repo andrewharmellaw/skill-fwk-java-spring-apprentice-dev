@@ -1,4 +1,4 @@
-# SKILL: Framework - Spring 4 (Journeyman Developer)
+# SKILL: Framework - Spring 4 (Apprentice Developer)
 
 ## [PRE-REQUISITES]
   * [Networking - HTTP/HTTPS and Web Server (Apprentice Developer)](https://github.com/andrewharmellaw/skill-networking-apprentice-dev)
