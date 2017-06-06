@@ -6,7 +6,7 @@
   * [Security and Cyber Concepts (Apprentice Developer)](https://andrewharmellaw.github.io/quest-dist-sys-eng-java-apprentice/skill-security-cyber-apprentice-dev)
   * [Java 8 Programmer (Apprentice Developer)](https://andrewharmellaw.github.io/quest-dist-sys-eng-java-apprentice/skill-java8-apprentice-dev)
   * [Testing (Unit) - JUnit5 (Apprentice Developer)](https://andrewharmellaw.github.io/quest-dist-sys-eng-java-apprentice/skill-testing-junit5-apprentice-dev)
-  * Build Tool - Maven 2 (Apprentice Developer)
+  * [Build Tool - Maven 2 (Apprentice Developer)](https://andrewharmellaw.github.io/quest-dist-sys-eng-java-apprentice/skill-build-tool-maven2-apprentice-dev/)
   * [Persistence (Relational) - MySQL (Apprentice Developer)](https://andrewharmellaw.github.io/quest-dist-sys-eng-java-apprentice/skill-persistence-relational-mysql-apprentice-dev)
 
 ## [TOPICS]
